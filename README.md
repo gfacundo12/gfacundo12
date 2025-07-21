@@ -1,8 +1,25 @@
-<!-- Profile Banner -->
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Hi%20there%20👋%20I'm%20Hazem!&fontSize=35&fontAlignY=35&desc=Junior%20Dev%20%7C%20Learning%20Every%20Day&descSize=20)
+<!-- 🚀 Banner -->
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Hi%20there%20👋%20I'm%20G%20Facundo!&fontSize=35&fontAlignY=35&desc=Full-Stack%20Builder%20%7C%20Solana%20%26%20Smart%20Contracts&descSize=20)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=0072FF&center=true&vCenter=true&width=435&lines=Full+Stack+Enthusiast;Lifelong+Learner;Loves+Open+Source" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00f2fe&center=true&vCenter=true&width=450&lines=Frontend+%2B+Backend+Developer;Solana+Blockchain+Builder;Smart+Contract+Explorer;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+- 💻 Passionate about both **frontend** and **backend** development  
+- 🌐 Building dApps & tools on **Solana**  
+- 📚 Exploring the potential of **smart contracts**  
+- 🚀 Committed to **continuous learning** and innovation  
+
+---
+
+### 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,solidity,rust,nodejs,express,tailwind,git,github,vscode,postgresql,mongodb" />
 </p>
 
 ---
@@ -10,38 +27,27 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hazemnabil1250&show_icons=true&theme=tokyonight" alt="Hazem's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gfacundo12&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=hazemnabil1250&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=gfacundo12&theme=react&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 🚀 Tech Stack
+### 🌱 Currently Exploring
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git,github,vscode" />
-</p>
-
----
-
-### 🧠 Currently Learning
-
-- TypeScript
-- Backend with Node.js & Express
-- Building cool open source projects
+- 🔹 Smart contracts with **Solana + Anchor**
+- 🔹 Full-stack dApps using **Next.js** & **Rust**
+- 🔹 Scalable backend systems with **TypeScript**
 
 ---
 
-### 🔗 Connect with Me
+### 📬 Reach Out
 
-<p align="center">
-  <a href="https://linkedin.com/in/yourusername" target="_blank">LinkedIn</a> • 
-  <a href="https://twitter.com/yourhandle" target="_blank">Twitter</a> • 
-  <a href="mailto:hazemnabil1250@gmail.com">Email</a>
-</p>
+If you're building something on Solana or just geeking out over tech — let’s connect!  
+Open to collaborations, open source projects, and futuristic ideas 🌌
 
 ---
 
-<!-- Footer -->
-![footer](https://capsule-render.vercel.app/api?section=footer&color=0:0072ff,100:00c6ff&type=waving&height=120)
+<!-- 🌊 Footer -->
+![footer](https://capsule-render.vercel.app/api?section=footer&color=0:00f2fe,100:4facfe&type=waving&height=120)
