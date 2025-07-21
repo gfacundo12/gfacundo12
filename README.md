@@ -4,15 +4,6 @@
 
 ---
 
-### 👨‍💻 About Me
-
-- 💻 Passionate about both **frontend** and **backend** development  
-- 🌐 Building dApps & tools on **Solana**  
-- 📚 Exploring the potential of **smart contracts**  
-- 🚀 Committed to **continuous learning** and innovation  
-
----
-
 ### 🧰 Tech Stack
 
 <p align="center">
@@ -37,12 +28,6 @@
 
 ---
 
-### 📬 Reach Out
-
-If you're building something on Solana or just geeking out over tech — let’s connect!  
-Open to collaborations, open source projects, and futuristic ideas 🌌
-
----
 
 <!-- 🌊 Footer -->
 ![footer](https://capsule-render.vercel.app/api?section=footer&color=0:00f2fe,100:4facfe&type=waving&height=120)
